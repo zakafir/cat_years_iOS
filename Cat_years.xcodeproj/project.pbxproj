@@ -12,6 +12,7 @@
 		C07347381F8D25B10073FA26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C07347361F8D25B10073FA26 /* Main.storyboard */; };
 		C073473A1F8D25B10073FA26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C07347391F8D25B10073FA26 /* Assets.xcassets */; };
 		C073473D1F8D25B10073FA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C073473B1F8D25B10073FA26 /* LaunchScreen.storyboard */; };
+		C07347451F8D284F0073FA26 /* Kittyply_edit1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C07347441F8D284F0073FA26 /* Kittyply_edit1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C07347391F8D25B10073FA26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C073473C1F8D25B10073FA26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C073473E1F8D25B10073FA26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C07347441F8D284F0073FA26 /* Kittyply_edit1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kittyply_edit1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C07347321F8D25B10073FA26 /* AppDelegate.swift */,
 				C07347341F8D25B10073FA26 /* ViewController.swift */,
 				C07347361F8D25B10073FA26 /* Main.storyboard */,
+				C07347441F8D284F0073FA26 /* Kittyply_edit1.jpg */,
 				C07347391F8D25B10073FA26 /* Assets.xcassets */,
 				C073473B1F8D25B10073FA26 /* LaunchScreen.storyboard */,
 				C073473E1F8D25B10073FA26 /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C073473D1F8D25B10073FA26 /* LaunchScreen.storyboard in Resources */,
+				C07347451F8D284F0073FA26 /* Kittyply_edit1.jpg in Resources */,
 				C073473A1F8D25B10073FA26 /* Assets.xcassets in Resources */,
 				C07347381F8D25B10073FA26 /* Main.storyboard in Resources */,
 			);
